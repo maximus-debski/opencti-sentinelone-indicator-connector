@@ -22,10 +22,6 @@ S1_CONVERSIONS = {
     "file:hashes.'SHA-1'": "SHA1",
 }
 
-###bit confused about the conversions here! found these:
-# [file:hashes.'SHA-1' = 'a7f075ba37961545ae0a819bda5d2be28618d60d']
-# [file:hashes.'SHA-256' = 'b3ad8409d82500e790e6599337abe4d6edf5bd4c6737f8357d19edd82c88b064']
-# [file:hashes.'SHA-256' = '326d05c29c46e6ca7f2f1a9b534d8a2ffb98a13f74f8f26fff2057ad1f8e0ca8']
 
 
 import json
